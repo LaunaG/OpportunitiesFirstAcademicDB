@@ -23,5 +23,11 @@ The user chooses from among four different options: (1) modifying cohort informa
 
 ![alt text](https://github.com/LaunaG/OpportunitiesFirstAcademicDB/blob/master/homePage.png "Home Page")
 
-#### EDIT COHORT INFORMATION
+#### STUDENT INFORMATION
 ![alt text](https://github.com/LaunaG/OpportunitiesFirstAcademicDB/blob/master/Cohorts.gif "Edit Cohorts gif")
+
+#### SCORE REPORTING
+![alt text]
+
+#### TEST SCHEDULING
+![alt text]
