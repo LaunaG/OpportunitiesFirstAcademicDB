@@ -19,17 +19,21 @@
 * Create unit tests with sample data
 
 #### MAIN SCREEN
-The user chooses from among four different options: (1) modifying cohort information, (2) entering test score data, (3) viewing or creating upcoming test appointments with an interactive calendar, and (4) summarizing and analyzing test data at the individual student, cohort, or multiple cohort level. (Note: the "Data Analysis" option is not functional at this time.)
+The admin chooses from among four different options: (1) modifying cohort information, (2) entering test score data, (3) viewing or creating upcoming test appointments with an interactive calendar, and (4) summarizing and analyzing test data at the individual student, cohort, or multiple cohort level. *NOTE: The "Data Analysis" option is not functional at this time.*
 
 ![alt text](https://github.com/LaunaG/OpportunitiesFirstAcademicDB/blob/master/homePage.png "Home Page")
 
 #### STUDENT INFORMATION
-Students enter the nonprofit's program through groups called cohorts.  Here, users can add or modify cohort names and then add students to each cohort.  Available fields are currently the student's first name, last name, and initial diploma status.
+Students enter the nonprofit's program in groups called cohorts.  Here, admins can create or modify cohort names and then add students to each cohort.  Available fields for students are currently first name, last name, and initial diploma status. Admins can return to the main screen by clicking the "Home" button.  In addition, on every page, they can click a "Help" button (question mark) to receive instructions for navigating the content there. *NOTE: The "Help" buttons are not functional at this time.*
 
 ![alt text](https://github.com/LaunaG/OpportunitiesFirstAcademicDB/blob/master/Cohorts.gif "Edit Cohorts gif")
 
 #### SCORE REPORTING
-![alt text]()
+Admins can enter new test scores by using the tab control to switch between tests. To prevent database corruption, several input fields have a layer of data validation; in addition, when the form is submitted with blank required fields, the program will respond with an error message and return to the incomplete form.
+
+![alt text](https://github.com/LaunaG/OpportunitiesFirstAcademicDB/blob/master/ScoreEntryLowerFrame.gif)
 
 #### TEST SCHEDULING
+When the form opens, admins land on a calendar with the current month displayed and the current day outlined in green.  Previous days are greyed out, while current and upcoming days are left white.  Admins can change the month and year by using the drop-down boxes and can iterate to the previous or next month using the left and right arrows, respectively.  Each calendar box displays the number of tests scheduled for that day; when clicked, a modal window opens and displays more detailed information (i.e. name, test date, test time, test subject, location, transportation, comments). Admins can also schedule a new test by clicking on the "New Test Appointment" button and filling out the modal form that launches.
+
 ![alt text](https://github.com/LaunaG/OpportunitiesFirstAcademicDB/blob/master/CalendarLowerFrame.gif "Calendar gif")
