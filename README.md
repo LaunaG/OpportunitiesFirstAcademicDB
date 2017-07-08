@@ -24,10 +24,12 @@ The user chooses from among four different options: (1) modifying cohort informa
 ![alt text](https://github.com/LaunaG/OpportunitiesFirstAcademicDB/blob/master/homePage.png "Home Page")
 
 #### STUDENT INFORMATION
+Students enter the nonprofit's program through groups called cohorts.  Here, users can add or modify cohort names and then add students to each cohort.  Available fields are currently the student's first name, last name, and initial diploma status.
+
 ![alt text](https://github.com/LaunaG/OpportunitiesFirstAcademicDB/blob/master/Cohorts.gif "Edit Cohorts gif")
 
 #### SCORE REPORTING
-![alt text]
+![alt text]()
 
 #### TEST SCHEDULING
-![alt text]
+![alt text](https://github.com/LaunaG/OpportunitiesFirstAcademicDB/blob/master/CalendarLowerFrame.gif "Calendar gif")
