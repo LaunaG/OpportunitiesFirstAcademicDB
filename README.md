@@ -18,8 +18,10 @@
 * Add OGT (Ohio Graduation Test), ServSafe, Customer Service, and Hospitality tests as tables in the database and include them in the score entry form
 * Create unit tests with sample data
 
-#### HOME PAGE
+#### MAIN SCREEN
 The user chooses from among four different options: (1) modifying cohort information, (2) entering test score data, (3) viewing or creating upcoming test appointments with an interactive calendar, and (4) summarizing and analyzing test data at the individual student, cohort, or multiple cohort level. (Note: the "Data Analysis" option is not functional at this time.)
+
+![alt text](https://github.com/LaunaG/OpportunitiesFirstAcademicDB/blob/master/homePage.png "Home Page")
 
 #### EDIT COHORT INFORMATION
 ![alt text](https://github.com/LaunaG/OpportunitiesFirstAcademicDB/blob/master/Cohorts.gif "Edit Cohorts gif")
